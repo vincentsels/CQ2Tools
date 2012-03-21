@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="cq2tools.items" targetNamespace="cq2tools.items" 
+           attributeFormDefault="unqualified" elementFormDefault="qualified" 
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Items">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="Item">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:choice maxOccurs="unbounded">
+                <xs:element name="LongName" type="xs:string" />
+                <xs:element name="PrimaryHealth" type="xs:unsignedShort" />
+                <xs:element name="SecondaryHealth" type="xs:unsignedShort" />
+                <xs:element name="CreatureClass" type="xs:string" />
+                <xs:element name="PrimaryDamage" type="xs:unsignedShort" />
+                <xs:element name="SecondaryDamage" type="xs:unsignedShort" />
+                <xs:element name="PrimaryDefence" type="xs:unsignedByte" />
+              </xs:choice>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

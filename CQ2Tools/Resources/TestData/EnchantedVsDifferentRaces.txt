@@ -1,0 +1,58 @@
+﻿
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrHa* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrHa	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrHa* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrHa* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrHa* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrHa* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrHa* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrHa* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrMa* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrMa* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrMa* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrMa* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrMa* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrMa* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrMa* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrMa* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrMa* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrHa* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrHa* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrHa* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrHa* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrMa* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrMa* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrMa* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	DaBrMa* (MaIm Cleric)	
+
+
+___
+
+
+
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Hammer* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Hammer	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Hammer* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Hammer* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Hammer* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Hammer* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Hammer* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Hammer* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Maul* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Maul* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Maul* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Maul* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Maul* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Maul* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Maul* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Maul* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Maul* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Hammer* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Hammer* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Hammer* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Hammer* (MaIm Diabolic Horde)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Maul* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Maul* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Maul* (MaIm Cleric)	
+Black Crystal Smith (cast curse)	 Smith/earth, passive	L20	 422/1454	 F20/D0/A70/E100	Dark Brim Maul* (MaIm Cleric)	
+Ferocious Fiend (cast curse)	 Fiend/earth, passive	L20	 451/898	 F65/D0/A25/E100	

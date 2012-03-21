@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Items xmlns="cq2tools.items">
+  <Item>
+    <LongName>Spider Rune</LongName>
+    <PrimaryDamage>45</PrimaryDamage>
+    <SecondaryDamage>3</SecondaryDamage>
+  </Item>
+  <Item>
+    <LongName>Viper Rune</LongName>
+    <PrimaryDamage>60</PrimaryDamage>
+    <SecondaryDamage>6</SecondaryDamage>
+  </Item>
+  <Item>
+    <LongName>Raptor Rune</LongName>
+    <PrimaryDamage>70</PrimaryDamage>
+    <SecondaryDamage>9</SecondaryDamage>
+  </Item>
+  <Item>
+    <LongName>Disciple Rune</LongName>
+    <PrimaryDamage>78</PrimaryDamage>
+    <SecondaryDamage>19</SecondaryDamage>
+  </Item>
+  <Item>
+    <LongName>Zealot Rune</LongName>
+    <PrimaryDamage>86</PrimaryDamage>
+    <SecondaryDamage>24</SecondaryDamage>
+  </Item>
+  <Item>
+    <LongName>Mirage Rune</LongName>
+    <PrimaryDamage>97</PrimaryDamage>
+    <SecondaryDamage>29</SecondaryDamage>
+  </Item>
+  <Item>
+    <LongName>Delusion Rune</LongName>
+    <PrimaryDamage>108</PrimaryDamage>
+    <SecondaryDamage>34</SecondaryDamage>
+  </Item>
+  <Item>
+    <LongName>Diabolic Pendant</LongName>
+    <PrimaryDamage>30</PrimaryDamage>
+  </Item>
+  <Item>
+    <LongName>Diabolic Flag</LongName>
+    <PrimaryDamage>35</PrimaryDamage>
+  </Item>
+  <Item>
+    <LongName>Diabolic Banner</LongName>
+    <PrimaryDamage>41</PrimaryDamage>
+  </Item>
+  <Item>
+    <LongName>Diabolic Standard</LongName>
+    <PrimaryDamage>46</PrimaryDamage>
+  </Item>
+  <Item>
+    <LongName>Diabolic Carrier</LongName>
+    <PrimaryDamage>52</PrimaryDamage>
+  </Item>
+  <Item>
+    <LongName>Diabolic Flame</LongName>
+    <PrimaryDamage>58</PrimaryDamage>
+  </Item>
+  <Item>
+    <LongName>Diabolic Inferno</LongName>
+    <PrimaryDamage>64</PrimaryDamage>
+  </Item>
+  <Item>
+    <LongName>Diabolic Abyss</LongName>
+    <PrimaryDamage>76</PrimaryDamage>
+  </Item>
+  <Item>
+    <LongName>Black Crystal Hammer</LongName>
+    <PrimaryHealth>750</PrimaryHealth>
+    <SecondaryHealth>500</SecondaryHealth>
+    <CreatureClass>Earth</CreatureClass>
+  </Item>
+  <Item>
+    <LongName>Black Crystal Maul</LongName>
+    <PrimaryHealth>750</PrimaryHealth>
+    <SecondaryHealth>500</SecondaryHealth>
+    <CreatureClass>Death</CreatureClass>
+  </Item>
+  <Item>
+    <LongName>Dark Brim Hammer</LongName>
+    <PrimaryDamage>450</PrimaryDamage>
+    <SecondaryDamage>300</SecondaryDamage>
+    <CreatureClass>Air</CreatureClass>
+  </Item>
+  <Item>
+    <LongName>Dark Brim Maul</LongName>
+    <PrimaryDamage>450</PrimaryDamage>
+    <SecondaryDamage>300</SecondaryDamage>
+    <CreatureClass>Forest</CreatureClass>
+  </Item>
+  <Item>
+    <LongName>Disease Hammer</LongName>
+    <PrimaryDamage>600</PrimaryDamage>
+    <SecondaryDamage>400</SecondaryDamage>
+    <CreatureClass>Earth</CreatureClass>
+  </Item>
+  <Item>
+    <LongName>Disease Maul</LongName>
+    <PrimaryDamage>600</PrimaryDamage>
+    <SecondaryDamage>400</SecondaryDamage>
+    <CreatureClass>Death</CreatureClass>
+  </Item>
+  <Item>
+    <LongName>Sickness Hammer</LongName>
+    <PrimaryHealth>1200</PrimaryHealth>
+    <SecondaryHealth>800</SecondaryHealth>
+    <CreatureClass>Air</CreatureClass>
+  </Item>
+  <Item>
+    <LongName>Sickness Maul</LongName>
+    <PrimaryHealth>1200</PrimaryHealth>
+    <SecondaryHealth>800</SecondaryHealth>
+    <CreatureClass>Forest</CreatureClass>
+  </Item>
+  <Item>
+    <LongName>Tiny Charm</LongName>
+    <PrimaryHealth>50</PrimaryHealth>
+  </Item>
+  <Item>
+    <LongName>Small Charm</LongName>
+    <PrimaryHealth>60</PrimaryHealth>
+  </Item>
+  <Item>
+    <LongName>Putrid Charm</LongName>
+    <PrimaryHealth>70</PrimaryHealth>
+  </Item>
+  <Item>
+    <LongName>Rancid Charm</LongName>
+    <PrimaryHealth>90</PrimaryHealth>
+  </Item>
+  <Item>
+    <LongName>Diamond Charm</LongName>
+    <PrimaryHealth>120</PrimaryHealth>
+  </Item>
+  <Item>
+    <LongName>Sacrifical Knife</LongName>
+    <PrimaryDefence>10</PrimaryDefence>
+  </Item>
+  <Item>
+    <LongName>Gore Knife</LongName>
+    <PrimaryDefence>14</PrimaryDefence>
+  </Item>
+  <Item>
+    <LongName>Blood Knife</LongName>
+    <PrimaryDefence>18</PrimaryDefence>
+  </Item>
+  <Item>
+    <LongName>Shadow Knife</LongName>
+    <PrimaryDefence>22</PrimaryDefence>
+  </Item>
+  <Item>
+    <LongName>Hell Knife</LongName>
+    <PrimaryDefence>26</PrimaryDefence>
+  </Item>
+  <Item>
+    <LongName>Overseer Knife</LongName>
+    <PrimaryDefence>30</PrimaryDefence>
+  </Item>
+</Items>

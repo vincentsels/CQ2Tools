@@ -1,0 +1,224 @@
+﻿1. Diabolic Watchman Diabolic Horde/death, passive L20 408/994 F60/D100/A0/E30 Diabolic Flag 
+2. Diabolic Watchman Diabolic Horde/death, passive L20 408/994 F60/D100/A0/E30 Diabolic Flag 
+3. Diabolic Watchman Diabolic Horde/death, passive L20 408/994 F60/D100/A0/E30 Diabolic Flag 
+4. Diabolic Watchman Diabolic Horde/death, passive L20 408/994 F60/D100/A0/E30 Diabolic Flag 
+5. Diabolic Watchman Diabolic Horde/death, passive L20 408/994 F60/D100/A0/E30 Diabolic Flag 
+6. Diabolic Watchman Diabolic Horde/death, passive L20 408/994 F60/D100/A0/E30 Diabolic Flag 
+7. Diabolic Watchman Diabolic Horde/death, passive L19 391/952 F60/D100/A0/E30 Diabolic Flag 
+8. Diabolic Watchman Diabolic Horde/death, passive L19 391/952 F60/D100/A0/E30 Diabolic Flag 
+9. Diabolic Watchman Diabolic Horde/death, passive L19 391/952 F60/D100/A0/E30 Diabolic Flag 
+10. Diabolic Watchman Diabolic Horde/death, passive L18 374/911 F60/D100/A0/E30 Diabolic Flag 
+11. Diabolic Watchman Diabolic Horde/death, passive L18 374/911 F60/D100/A0/E30 Diabolic Flag 
+12. Diabolic Watchman Diabolic Horde/death, passive L18 374/911 F60/D100/A0/E30 Diabolic Flag 
+13. Diabolic Watchman Diabolic Horde/death, passive L18 374/911 F60/D100/A0/E30 Diabolic Flag 
+14. Lich Priest Lich/death, passive L20 533/840 F65/D100/A0/E25 Blood Knife 
+15. Imp Necromancer Imp/forest, passive L20 376/539 F100/D50/A50/E0 Necromancer Wand 
+16. Imp Necromancer Imp/forest, passive L20 376/539 F100/D50/A50/E0 Necromancer Wand 
+17. Imp Necromancer Imp/forest, passive L20 439/602 F100/D50/A50/E0 Necrolord Wand 
+18. Imp Warlord Imp/forest, passive L10 76/106 F100/D50/A50/E0 
+
+
+
+encounter:
+Diabolic Watchman Diabolic Horde/death, passive L20 408/994 F60/D100/A0/E30 
+Diabolic Watchman Diabolic Horde/death, passive L20 408/994 F60/D100/A0/E30 
+Diabolic Watchman Diabolic Horde/death, passive L20 408/994 F60/D100/A0/E30 
+Imp Necromancer Imp/forest, passive L18 260/409 F100/D50/A50/E0 
+Imp Necromancer Imp/forest, passive L18 260/409 F100/D50/A50/E0 
+Imp Necromancer Imp/forest, passive L18 260/409 F100/D50/A50/E0 
+Imp Necromancer Imp/forest, passive L18 260/409 F100/D50/A50/E0 
+Imp Necromancer Imp/forest, passive L18 260/409 F100/D50/A50/E0 
+
+
+
+result: 5 win, 3 dips, lost 0
+
+battle report:
+
+You killed all your opponents!
+You gained 932 brimstone, 180 crystal, 301 essence and 90 granite.
+
+
+Your Diabolic Watchman did 344 damage -> opponent's Diabolic Watchman has 650 health left.
+Opponent's Diabolic Watchman did 204 damage -> your Diabolic Watchman has 790 health left.
+Your Diabolic Watchman did 344 damage -> opponent's Diabolic Watchman has 306 health left.
+Opponent's Diabolic Watchman did 204 damage -> your Diabolic Watchman has 586 health left.
+Your Diabolic Watchman did 344 damage -> opponent's Diabolic Watchman has 0 health left.
+Opponent's Diabolic Watchman did 204 damage -> your Diabolic Watchman has 382 health left.
+Your Diabolic Watchman killed your opponent's Diabolic Watchman.
+
+
+Your Diabolic Watchman did 344 damage -> opponent's Diabolic Watchman has 650 health left.
+Opponent's Diabolic Watchman did 204 damage -> your Diabolic Watchman has 790 health left.
+Your Diabolic Watchman did 344 damage -> opponent's Diabolic Watchman has 306 health left.
+Opponent's Diabolic Watchman did 204 damage -> your Diabolic Watchman has 586 health left.
+Your Diabolic Watchman did 344 damage -> opponent's Diabolic Watchman has 0 health left.
+Opponent's Diabolic Watchman did 204 damage -> your Diabolic Watchman has 382 health left.
+Your Diabolic Watchman killed your opponent's Diabolic Watchman.
+
+
+Your Diabolic Watchman did 344 damage -> opponent's Diabolic Watchman has 650 health left.
+Opponent's Diabolic Watchman did 204 damage -> your Diabolic Watchman has 790 health left.
+Your Diabolic Watchman did 344 damage -> opponent's Diabolic Watchman has 306 health left.
+Opponent's Diabolic Watchman did 204 damage -> your Diabolic Watchman has 586 health left.
+Your Diabolic Watchman did 344 damage -> opponent's Diabolic Watchman has 0 health left.
+Opponent's Diabolic Watchman did 204 damage -> your Diabolic Watchman has 382 health left.
+Your Diabolic Watchman killed your opponent's Diabolic Watchman.
+
+
+Your Diabolic Watchman did 688 damage -> opponent's Imp Necromancer has 0 health left.
+Opponent's Imp Necromancer did 234 damage -> your Diabolic Watchman has 760 health left.
+Your Diabolic Watchman killed your opponent's Imp Necromancer.
+
+
+Your Diabolic Watchman did 688 damage -> opponent's Imp Necromancer has 0 health left.
+Opponent's Imp Necromancer did 234 damage -> your Diabolic Watchman has 760 health left.
+Your Diabolic Watchman killed your opponent's Imp Necromancer.
+
+
+Your Diabolic Watchman did 688 damage -> opponent's Imp Necromancer has 0 health left.
+Opponent's Imp Necromancer did 234 damage -> your Diabolic Watchman has 760 health left.
+Your Diabolic Watchman killed your opponent's Imp Necromancer.
+
+
+Your Diabolic Watchman did 671 damage -> opponent's Imp Necromancer has 0 health left.
+Opponent's Imp Necromancer did 234 damage -> your Diabolic Watchman has 718 health left.
+Your Diabolic Watchman killed your opponent's Imp Necromancer.
+
+
+Your Diabolic Watchman did 671 damage -> opponent's Imp Necromancer has 0 health left.
+Opponent's Imp Necromancer did 234 damage -> your Diabolic Watchman has 718 health left.
+Your Diabolic Watchman killed your opponent's Imp Necromancer.
+
+
+
+can you maybe add a 'debug mode' where you supply the battle report? :) would help
+
+_________
+
+1. Diabolic Watchman Diabolic Horde/death, passive L20 408/994 F60/D100/A0/E30 Diabolic Flag 
+2. Diabolic Watchman Diabolic Horde/death, passive L20 408/994 F60/D100/A0/E30 Diabolic Flag 
+3. Diabolic Watchman Diabolic Horde/death, passive L20 408/994 F60/D100/A0/E30 Diabolic Flag 
+4. Diabolic Watchman Diabolic Horde/death, passive L20 408/994 F60/D100/A0/E30 Diabolic Flag 
+5. Diabolic Watchman Diabolic Horde/death, passive L20 408/994 F60/D100/A0/E30 Diabolic Flag 
+6. Diabolic Watchman Diabolic Horde/death, passive L20 408/994 F60/D100/A0/E30 Diabolic Flag 
+7. Diabolic Watchman Diabolic Horde/death, passive L20 408/994 F60/D100/A0/E30 Diabolic Flag 
+8. Diabolic Watchman Diabolic Horde/death, passive L19 391/952 F60/D100/A0/E30 Diabolic Flag 
+9. Diabolic Watchman Diabolic Horde/death, passive L19 391/952 F60/D100/A0/E30 Diabolic Flag 
+10. Diabolic Watchman Diabolic Horde/death, passive L19 391/952 F60/D100/A0/E30 Diabolic Flag 
+11. Diabolic Watchman Diabolic Horde/death, passive L19 391/952 F60/D100/A0/E30 Diabolic Flag 
+12. Diabolic Watchman Diabolic Horde/death, passive L19 391/952 F60/D100/A0/E30 Diabolic Flag 
+13. Diabolic Watchman Diabolic Horde/death, passive L19 391/952 F60/D100/A0/E30 Diabolic Flag 
+14. Lich Priest Lich/death, passive L20 533/840 F65/D100/A0/E25 Blood Knife 
+15. Imp Necromancer Imp/forest, passive L17 404/547 F100/D50/A50/E0 Necrolord Wand 
+16. Imp Necromancer Imp/forest, passive L20 376/539 F100/D50/A50/E0 Necromancer Wand 
+17. Imp Necromancer Imp/forest, passive L20 376/539 F100/D50/A50/E0 Necromancer Wand 
+
+attacking:
+
+Ferocious Fiend Fiend/earth, passive L19 432/860 F65/D0/A25/E100 
+Ferocious Fiend Fiend/earth, passive L19 432/860 F65/D0/A25/E100 
+Ferocious Fiend Fiend/earth, passive L19 432/860 F65/D0/A25/E100 
+Ferocious Fiend Fiend/earth, passive L19 432/860 F65/D0/A25/E100 
+Ferocious Fiend Fiend/earth, passive L19 432/860 F65/D0/A25/E100 
+Ferocious Fiend Fiend/earth, passive L19 432/860 F65/D0/A25/E100 
+Ferocious Fiend Fiend/earth, passive L19 432/860 F65/D0/A25/E100 
+Ferocious Fiend Fiend/earth, passive L19 432/860 F65/D0/A25/E100 
+Ferocious Fiend Fiend/earth, passive L19 432/860 F65/D0/A25/E100 
+Chaos Guard Doomguard/death, passive L19 87/290 F55/D100/A0/E45 
+Chaos Guard Doomguard/death, passive L19 87/290 F55/D100/A0/E45 
+Chaos Guard Doomguard/death, passive L19 87/290 F55/D100/A0/E45 
+Chaos Guard Doomguard/death, passive L19 87/290 F55/D100/A0/E45 
+Chaos Guard Doomguard/death, passive L19 87/290 F55/D100/A0/E45 
+Chaos Guard Doomguard/death, passive L19 87/290 F55/D100/A0/E45 
+Chaos Guard Doomguard/death, passive L19 87/290 F55/D100/A0/E45 
+Chaos Guard Doomguard/death, passive L19 87/290 F55/D100/A0/E45 
+
+Please copy the following number into the field next to it: ?
+
+result: won:8 Dips:9 lost:0
+
+battle:
+Your Diabolic Watchman did 1295 damage -> opponent's Ferocious Fiend has 0 health left.
+Opponent's Ferocious Fiend did 518 damage -> your Diabolic Watchman has 476 health left.
+Your Diabolic Watchman killed your opponent's Ferocious Fiend.
+
+
+Your Diabolic Watchman did 1295 damage -> opponent's Ferocious Fiend has 0 health left.
+Opponent's Ferocious Fiend did 518 damage -> your Diabolic Watchman has 476 health left.
+Your Diabolic Watchman killed your opponent's Ferocious Fiend.
+
+
+Your Diabolic Watchman did 1295 damage -> opponent's Ferocious Fiend has 0 health left.
+Opponent's Ferocious Fiend did 518 damage -> your Diabolic Watchman has 476 health left.
+Your Diabolic Watchman killed your opponent's Ferocious Fiend.
+
+
+Your Diabolic Watchman did 1295 damage -> opponent's Ferocious Fiend has 0 health left.
+Opponent's Ferocious Fiend did 518 damage -> your Diabolic Watchman has 476 health left.
+Your Diabolic Watchman killed your opponent's Ferocious Fiend.
+
+
+Your Diabolic Watchman did 1295 damage -> opponent's Ferocious Fiend has 0 health left.
+Opponent's Ferocious Fiend did 518 damage -> your Diabolic Watchman has 476 health left.
+Your Diabolic Watchman killed your opponent's Ferocious Fiend.
+
+
+Your Diabolic Watchman did 1295 damage -> opponent's Ferocious Fiend has 0 health left.
+Opponent's Ferocious Fiend did 518 damage -> your Diabolic Watchman has 476 health left.
+Your Diabolic Watchman killed your opponent's Ferocious Fiend.
+
+
+Your Diabolic Watchman did 1295 damage -> opponent's Ferocious Fiend has 0 health left.
+Opponent's Ferocious Fiend did 518 damage -> your Diabolic Watchman has 476 health left.
+Your Diabolic Watchman killed your opponent's Ferocious Fiend.
+
+
+Your Diabolic Watchman did 1269 damage -> opponent's Ferocious Fiend has 0 health left.
+Opponent's Ferocious Fiend did 518 damage -> your Diabolic Watchman has 434 health left.
+Your Diabolic Watchman killed your opponent's Ferocious Fiend.
+
+
+Your Diabolic Watchman did 1269 damage -> opponent's Ferocious Fiend has 0 health left.
+Opponent's Ferocious Fiend did 518 damage -> your Diabolic Watchman has 434 health left.
+Your Diabolic Watchman killed your opponent's Ferocious Fiend.
+
+
+Your Diabolic Watchman did 423 damage -> opponent's Chaos Guard has 0 health left.
+Opponent's Chaos Guard did 44 damage -> your Diabolic Watchman has 908 health left.
+Your Diabolic Watchman killed your opponent's Chaos Guard.
+
+
+Your Diabolic Watchman did 423 damage -> opponent's Chaos Guard has 0 health left.
+Opponent's Chaos Guard did 44 damage -> your Diabolic Watchman has 908 health left.
+Your Diabolic Watchman killed your opponent's Chaos Guard.
+
+
+Your Diabolic Watchman did 423 damage -> opponent's Chaos Guard has 0 health left.
+Opponent's Chaos Guard did 44 damage -> your Diabolic Watchman has 908 health left.
+Your Diabolic Watchman killed your opponent's Chaos Guard.
+
+
+Your Diabolic Watchman did 423 damage -> opponent's Chaos Guard has 0 health left.
+Opponent's Chaos Guard did 44 damage -> your Diabolic Watchman has 908 health left.
+Your Diabolic Watchman killed your opponent's Chaos Guard.
+
+
+Your Lich Priest did 362 damage -> opponent's Chaos Guard has 0 health left.
+Opponent's Chaos Guard did 44 damage -> your Lich Priest has 796 health left.
+Your Lich Priest killed your opponent's Chaos Guard.
+
+
+Your Imp Necromancer did 384 damage -> opponent's Chaos Guard has 0 health left.
+Opponent's Chaos Guard did 87 damage -> your Imp Necromancer has 460 health left.
+Your Imp Necromancer killed your opponent's Chaos Guard.
+
+
+Your Imp Necromancer did 357 damage -> opponent's Chaos Guard has 0 health left.
+Opponent's Chaos Guard did 87 damage -> your Imp Necromancer has 452 health left.
+Your Imp Necromancer killed your opponent's Chaos Guard.
+
+
+Your Imp Necromancer did 357 damage -> opponent's Chaos Guard has 0 health left.
+Opponent's Chaos Guard did 87 damage -> your Imp Necromancer has 452 health left.
+Your Imp Necromancer killed your opponent's Chaos Guard.
